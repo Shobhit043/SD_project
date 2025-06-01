@@ -73,30 +73,30 @@ To start the application in colab, run the following command:
 ### English Prompt
 
 <figure>
-  <img src="https://github.com/Shobhit043/GAN-project/blob/main/application%20images/ss-240802-20%3A45%3A34.png" alt="English prompt" />
+  <img src="https://github.com/Shobhit043/SD_project/blob/main/application%20images/ss-240802-20%3A45%3A34.png" alt="English prompt" />
 </figure>
 
 ### Hindi Prompt
 
 <figure>
-  <img src="https://github.com/Shobhit043/GAN-project/blob/main/application%20images/ss-240802-20%3A46%3A25.png" alt="Hindi prompt" />
+  <img src="https://github.com/Shobhit043/SD_project/blob/main/application%20images/ss-240802-20%3A46%3A25.png" alt="Hindi prompt" />
 </figure>
 
 ### Japanese Prompt
 
 <figure>
-  <img src="https://github.com/Shobhit043/GAN-project/blob/main/application%20images/ss-240802-20%3A53%3A44.png" alt="Japanese prompt">
+  <img src="https://github.com/Shobhit043/SD_project/blob/main/application%20images/ss-240802-20%3A53%3A44.png" alt="Japanese prompt">
 </figure>
 
 ## Sample Output of the model:
 ### Image
 <figure>
-  <img src="https://github.com/Shobhit043/GAN-project/blob/main/generated%20output%20images/ss-240802-21%3A25%3A39.png" alt="sample output image" />
+  <img src="https://github.com/Shobhit043/SD_project/blob/main/generated%20output%20images/ss-240802-21%3A25%3A39.png" alt="sample output image" />
 </figure>
 
 ### Video
 Sample video is present in the **Generated output folder** in the repository <br>
 
 #### GIF form
-![generated video converted to gif](https://github.com/Shobhit043/GAN-project/blob/main/generated%20output%20images/generated_video_in_gif_format.gif)<br>
+![generated video converted to gif](https://github.com/Shobhit043/SD_project/blob/main/generated%20output%20images/generated_video_in_gif_format.gif)<br>
 (this video seems static but there is slight movement in the river in the actual video)
